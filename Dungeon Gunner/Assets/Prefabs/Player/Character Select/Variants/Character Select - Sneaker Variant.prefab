@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1848577218599084734
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1878856363761216678, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540654897809084747, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_Name
+      value: Character Select - Sneaker
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612703750425565295, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: playerToSpawn
+      value: 
+      objectReference: {fileID: 2244247173491028803, guid: 243615f90e1b5d743a82853794121125,
+        type: 3}
+    - target: {fileID: 4101177181847913943, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_Text
+      value: Sneaker
+      objectReference: {fileID: 0}
+    - target: {fileID: 4369593230256632650, guid: 1f643ea92b447ef469561f8df4ffb59b,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3542127132570728493, guid: a47294d8f066c634d90ee371916313ff,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1f643ea92b447ef469561f8df4ffb59b, type: 3}
